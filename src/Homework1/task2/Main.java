@@ -8,3 +8,7 @@ public class Main {
         double d = 14.2;
         boolean bool = true;
         char c = 'c';
+    }
+    
+    
+}
